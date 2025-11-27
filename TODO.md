@@ -1,0 +1,12 @@
+- [x] Add line break in hero h1 after "مكتبنا" for better readability on smaller screens
+- [x] Download logo image from Google Drive and update src to local path
+- [x] Download hero image from Google Drive and update src to local path
+- [x] Download about team image from Google Drive and update src to local path
+- [x] Make logo stay small and fixed without enlarging
+- [x] Adjust colors to match the logo's colors
+- [x] Fix image styling so the edges are rounded
+- [x] Ensure there are no gaps between the images
+- [x] Restore hero image as background with overlay
+- [x] Add emojis to the text
+- [x] Download services individuals image locally
+- [x] Fix hero section to use single background image without stacked img tag
